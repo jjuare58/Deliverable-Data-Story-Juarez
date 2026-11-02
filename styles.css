@@ -98,3 +98,15 @@ thead{
     stroke:var(--color-muted);
     stroke-width:8;
 }
+
+.graphic-bar{
+    fill:var(--color-muted);
+}
+.graphic-line{
+    stroke:var(--color-text);
+    stroke-width:2;
+}
+.graphic-label{
+    fill:var(--color-text);
+    font-size:14px;
+}
