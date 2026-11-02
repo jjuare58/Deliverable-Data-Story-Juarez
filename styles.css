@@ -91,13 +91,6 @@ thead{
 .graphic-primary{
     fill:var(--color-action);
 }
-.graphic-accent{
-    fill:var(--color-accent);
-}
-.graphic-line{
-    stroke:var(--color-muted);
-    stroke-width:8;
-}
 
 .graphic-bar{
     fill:var(--color-muted);
